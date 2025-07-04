@@ -1,8 +1,5 @@
 # DCX-Digital
 This is a salesforce project, which targets the use of leveraging b2b experience.
-# DCx digital 
-
-A brief description of your project, what it does, and why it's useful.
 
 ## 🚀 Features
 
@@ -11,12 +8,12 @@ A brief description of your project, what it does, and why it's useful.
 - Salesforce as a microservices.
 ## 🛠️ Tech Stack
 
-- Language/Framework: e.g., JavaScript, Python, Salesforce Apex
-- Libraries: e.g., React, Express, LWC
-- Tools: Git, Docker, Copado, etc.
+- Salesforce Apex
+- Libraries: LWC
+- Tools: Gi
 
 ## 📦 Installation
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Hemant182/DCX-Digital.git
