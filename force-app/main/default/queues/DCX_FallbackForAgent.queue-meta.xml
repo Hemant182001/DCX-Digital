@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Queue xmlns="http://soap.sforce.com/2006/04/metadata">
+    <doesSendEmailToMembers>false</doesSendEmailToMembers>
+    <name>Fallback For Agent</name>
+    <queueMembers>
+        <users>
+            <user>himanshugirigoswami644@gmail.com.agentforce.dev1</user>
+        </users>
+    </queueMembers>
+    <queueRoutingConfig>DCX_service_agent_cofig</queueRoutingConfig>
+    <queueSobject>
+        <sobjectType>BuyerCriteria</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>BuyerGroup</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>BuyerGroupMember</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Case</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>MessagingSession</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Order</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>WebCart</sobjectType>
+    </queueSobject>
+    <queueSobject>
+        <sobjectType>Wishlist</sobjectType>
+    </queueSobject>
+</Queue>
